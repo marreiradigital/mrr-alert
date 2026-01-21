@@ -1,4 +1,4 @@
-# MrrAlert
+# MRR ALERT
 
 Biblioteca **Vanilla JS + CSS** (sem dependências) para **modals** e **toasts**, inspirada na ergonomia do SweetAlert2, porém pensada para ser **leve**, **rápida** e fácil de manter.
 
